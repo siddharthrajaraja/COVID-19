@@ -13,7 +13,7 @@
     "fs": "0.0.1-security",
     "nodemon": "^2.0.2",
     "path": "^0.12.7",
-    "read-excel-file": "^4.0.6",
+    "read-excel-file": "^4.1.0",
     "regex": "^0.1.1"
   }
 }
